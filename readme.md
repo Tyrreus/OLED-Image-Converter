@@ -1,4 +1,4 @@
-#Simple B&W image to C array converter
+##Simple B&W image to C array converter
 
 This script was created to allow simple conversion from black and white 8bit image into C array.
 
